@@ -1,0 +1,8 @@
+User-agent: Yandex
+Disallow: /Zern/
+
+User-agent: GoogleBot
+Disallow: /Zern/
+
+User-agent: *
+Disallow: /Zern/
